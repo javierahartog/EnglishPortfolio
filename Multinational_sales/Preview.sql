@@ -1,4 +1,4 @@
---DDL Creacion de tabla
+--DDL Table Creation
 CREATE TABLE Sales AS
 SELECT Customers.CustomerID, Customers.City, Cities.Country,Orders.OrderDate, OrderDetails.Quantity, Products.Price,
 	   OrderDetails.Quantity*Products.Price AS TotalSales, Products.ProductName, Categories.CategoryName
@@ -10,7 +10,7 @@ JOIN Products ON Products.ProductID=OrderDetails.ProductID
 JOIN Categories ON Products.CategoryID=Categories.CategoryID
 
 
---DML Aumento de precio para paises con menos ventas
+--DML Price increase for countries with less sales
 UPDATE Sales
 SET Price=Price*1.2
 WHERE Country IN (
@@ -20,7 +20,7 @@ WHERE Country IN (
 	HAVING count(*)<2;
 	
 	
---DML Añadir nuevas ventas
+--DML Add new sales
 INSERT INTO Sales (CustomerID, City, Country,OrderDate, Quantity, Price, TotalSales, ProductName, CategoryName)
 VALUES
 	
