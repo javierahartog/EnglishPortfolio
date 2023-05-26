@@ -12,9 +12,9 @@
 
 ## 🌱 Repository contents
 
-- [Mining visual management](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/GVM): Python & PowerBI
-- [Multinacional Sales](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional): SQL y PowerBI
-- [Avalaibility in retail stores](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/Disponibilidad): Dax y PowerBI
+- [Mining visual management](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/GVM/Analysis.md): Python & PowerBI
+- [Multinacional Sales](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/Multinational_sales/Analysis.md): SQL y PowerBI
+- [Avalaibility in retail stores](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/Availability/Analysis.md): Dax y PowerBI
 
 ## How to navigate the repository
 
