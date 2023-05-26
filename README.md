@@ -11,6 +11,7 @@
 👩‍💻This repository have a collection of projects, jobs and examples of my work as Data analyst. Here, you can explore a variety of projects where I worked, as have an idea about my strenghts and experience in the data management, organization and visualization. 
 
 ## 🌱 Repository contents
+![resumen dashboards](https://github.com/javierahartog/EnglishPortfolio/assets/134547879/e83e1005-015f-4799-ac43-c51da6f491df)
 
 - [Mining visual management](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/GVM/Analysis.md): Python & PowerBI
 - [Multinacional Sales](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/Multinational_sales/Analysis.md): SQL y PowerBI
