@@ -12,7 +12,6 @@
 
 ## 🌱 Repository contents
 
-![Dashboard 2 (1)](https://github.com/javierahartog/EnglishPortfolio/assets/134547879/0c2a74c0-9196-4013-961e-e8a4b84ef3e4)
 
 - [Asteroids approach API NASA ](https://github.com/javierahartog/EnglishPortfolio/blob/dba6f9eac6e1656275b7601e70b6c7a573a07a4e/Nasa_NeoWs/Analysis.md): Python & Tableau Public
 - [Mining visual management](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/GVM/Analysis.md): Python & PowerBI
