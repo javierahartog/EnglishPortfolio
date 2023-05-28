@@ -8,7 +8,7 @@ There are projects that allow us to explore the vast universe and discover fasci
 
 NASA's NeoWs (Near Earth Object Web service) API data analysis project begins with data extraction using Python and the Pandas library. We focused on obtaining information about near-Earth asteroids and three other selected planets. We create two different dataframes, the first called Asteroids for the general data and a second dataframe for the close approach data. Using the data extraction and manipulation capabilities of Pandas, we formatted the variables, subdivided and reordered the way the API fed us information, and made our database ready to connect to via Tableau. Since we're using Tableau Public, it's not possible to connect directly with Python code, so we had to create a link through Excel files. In case of using Tableau Desktop we should only upload our code through Tabpy and connect to the API in real time
 
-[Python Code](https://github.com/javierahartog/Portafolio/blob/09f902909f04b8cb8aad32d45377e4ff70b446a1/Nasa_NEOWS/Preparacion_datos.py)
+[Python Code](https://github.com/javierahartog/EnglishPortfolio/blob/e610b1b81b35bc7a93ac38699ecb1dfdada0e444/Nasa_NeoWs/Data_preparation.py)
 
 ![NEOWS python](https://github.com/javierahartog/Portafolio/assets/134547879/cf78a051-ccfe-47f1-9075-f7720fee24a8)
 
