@@ -12,11 +12,20 @@
 
 ## 🌱 Repository contents
 
+1.-[Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/GVM/Analisis.md): Python | PowerBi
+<br>
+2. [Niveles de extraccion y calidad durante una Cosecha](https://github.com/javierahartog/Portafolio/blob/main/cosecha/analisis.md): PowerBi
+<br>
+3. [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional/Analisis.md): SQL | PowerBi
+<br>
+4. [Disponibilidad general en retail](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Disponibilidad/Analisis.md): DAX | PowerBi
+<br>
+5. [Acercamiento asteroides API NASA ](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Nasa_NEOWS/Analisis.md): Python y Tableau Public
+<br>
 
-- [Asteroids approach API NASA ](https://github.com/javierahartog/EnglishPortfolio/blob/dba6f9eac6e1656275b7601e70b6c7a573a07a4e/Nasa_NeoWs/Analysis.md): Python & Tableau Public
-- [Mining visual management](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/GVM/Analysis.md): Python & PowerBI
-- [Multinacional Sales](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/Multinational_sales/Analysis.md): SQL y PowerBI
-- [Avalaibility in retail stores](https://github.com/javierahartog/EnglishPortfolio/blob/2c45e62d6431a2677e9d65e0249ee87d0e9357e3/Availability/Analysis.md): Dax y PowerBI
+
+![ban](https://github.com/javierahartog/javierahartog/assets/134547879/aee658a2-a050-4933-9a56-c9b220882803)
+
 
 ## How to navigate the repository
 
